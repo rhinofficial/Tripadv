@@ -1,0 +1,41 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat&display=swap');
+@import url('https://fonts.googleapis.com/icon?family=Material+Icons');
+body{
+	margin: 0;
+}
+nav{
+	padding: 16px 36px
+}
+.float-right{
+	float: right;
+}
+.float-left{
+	float: left;
+}
+.main-font{
+	font-family: 'Montserrat', sans-serif;
+	size: 14px;
+}
+#brand{
+	font-style: normal;
+	font-weight: bold;
+	font-size: 28px;
+	text-decoration: none;
+	color :#000000;
+}
+#signin-button{
+	color: #ffffff;
+	background-color: #000000;
+	border-radius: 10px;
+	padding: 7.5px 10px
+
+}
+#nav-button{
+	color: #000000;
+	background-color: #ffffff;
+	padding: 7.5px 10px;
+	margin-right: 10px;
+	border:none;
+	font-weight: bold;
+}
+
