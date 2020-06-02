@@ -2,9 +2,10 @@
 @import url('https://fonts.googleapis.com/icon?family=Material+Icons');
 body{
 	margin: 0;
+	padding: 16px 36px;
 }
 nav{
-	padding: 16px 36px
+	/*padding: 16px 36px*/
 }
 .float-right{
 	float: right;
@@ -15,6 +16,9 @@ nav{
 .main-font{
 	font-family: 'Montserrat', sans-serif;
 	size: 14px;
+}
+.flex{
+	display: flex;
 }
 #brand{
 	font-style: normal;
